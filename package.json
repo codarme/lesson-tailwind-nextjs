@@ -8,8 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "autoprefixer": "^9.7.4",
     "next": "9.3.0",
     "react": "16.13.0",
-    "react-dom": "16.13.0"
+    "react-dom": "16.13.0",
+    "tailwindcss": "^1.2.0"
   }
 }
